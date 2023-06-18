@@ -1,0 +1,7 @@
+
+te.c:9: WARNING: line over 80 characters (85)
+101-quote.c:9: WARNING: please, no spaces at the start of a line
+101-quote.c:9: ERROR: space required after that ',' (ctx:VxV)
+101-quote.c:9: ERROR: space required after that ',' (ctx:VxV)
+101-quote.c:10: WARNING: please, no spaces at the start of a line
+total: 3 errors, 3 warnings, 11 lines checkedi
