@@ -5,11 +5,11 @@
 *followed by a new line
 *Return: Always 0 (Success)
 */
-intmain(void)
+int main(void)
 {
-longint n;
-longint max;
-longint i;
+long int n;
+long int max;
+long int i;
 n = 612852475143;
 max = -1;
 while (n % 2 == 0)
